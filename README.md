@@ -15,19 +15,19 @@
 - Acharya Nagarjuna University,Guntur
 - Andhra Pradesh,India
 
-** Intermediate details **
+**Intermediate details**
 
 - Narayana Junior College
 - English Medium
 - Board of Intermediate Education
 - Guntur,Andhra Pradesh
 
-** SSC **
+**SSC**
 - Lotus High School
 - State Board of Education
 - Guntur,Andhra Pradesh
 
-** Skills **
+**Skills**
 
 - C Programming Language
 - Python 
