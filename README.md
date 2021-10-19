@@ -31,7 +31,8 @@
 
 - C Programming Language
 - Python 
-- Data Structures
+- java(bsics)
+- web development(html,css,javascript)
 
 ## Goals
 - Get seat in IIT
